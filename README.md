@@ -8,7 +8,7 @@
 
 ## Shared folder
 - Raw data: `/data/art`
-- Shared folder: None (let's create one if needed)
+- Shared folder: https://drive.google.com/drive/folders/1XytENk21iqdhgbwtBCZTm3OPsdRuQn9f?usp=sharing
 
 ## Data to visualize
 
@@ -26,5 +26,6 @@
     - `paper_table.csv`: A table about the metadata of publications
     - `citation_net.npz`: Citation network. CSR sparse format
 
-
+## Idea sketch
+- [Draw & Drop here](https://drive.google.com/drive/folders/1XytENk21iqdhgbwtBCZTm3OPsdRuQn9f?usp=sharing)
 
