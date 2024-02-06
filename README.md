@@ -13,7 +13,7 @@
 ## Data to visualize
 
 - **Embedding**:
-  - `/data/art/data/{data}/derived/embedding
+  - `/data/art/data/{data}/derived/embedding`
   - `{data}` represents:
     - `aps`: Physics embedding 
     - `science`: Science embedding 
@@ -21,7 +21,7 @@
     - `law`: Law embedding 
 
 - **Metadata**:
-  - `/data/art/data/{data}/preprocessed/{file}
+  - `/data/art/data/{data}/preprocessed/{file}`
     - `{file}` represents:
       - `paper_table.csv`: A table about the metadata of publications
       - `citation_net.npz`: Citation network. CSR sparse format
