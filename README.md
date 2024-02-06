@@ -13,6 +13,7 @@
 ## Data to visualize
 
 - **Embedding**:
+  - on Aster 
   - `/data/art/data/{data}/derived/embedding`
   - `{data}` represents:
     - `aps`: Physics embedding 
@@ -21,6 +22,7 @@
     - `law`: Law embedding 
 
 - **Metadata**:
+  - on Aster
   - `/data/art/data/{data}/preprocessed/{file}`
   - `{file}` represents:
     - `paper_table.csv`: A table about the metadata of publications
