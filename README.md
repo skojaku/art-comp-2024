@@ -21,9 +21,10 @@
     - `law`: Law embedding 
 
 - **Metadata**:
-  - `/data/art/data/{data}/preprocessed
-    - `paper_table.csv`: A table about the metadata of publications
-    - `citation_net.npz`: Citation network. CSR sparse format
+  - `/data/art/data/{data}/preprocessed/{file}
+    - `{file}` represents:
+      - `paper_table.csv`: A table about the metadata of publications
+      - `citation_net.npz`: Citation network. CSR sparse format
 
 
 
