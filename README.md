@@ -4,6 +4,8 @@
 
 ![figs/geo-science.png](figs/all-sciences-v2.png)
 
+**Charting Scientific Foraging**: Just as slime mold explores and exploits foods, so too do scientists forage for scientific discoveries. The colors represent research topics. The elevation represents the number of scientists publishing in that area. Scientists are mapped by a language model, BERT, trained on 134M scientific papers and visualized with HeliosWeb.
+
 ## About the competition
 
 - [Web page](https://www.binghamton.edu/research/division-offices/research-advancement/art-of-science/index.html)
