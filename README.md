@@ -28,6 +28,7 @@
 8. Put all figures into one folder. Open `plot.py` and edit the path to a folder to the folder with the images.
 9. Run `plot.py`.
 
-## Idea sketch
-- [Draw & Drop here](https://drive.google.com/drive/folders/1XytENk21iqdhgbwtBCZTm3OPsdRuQn9f?usp=sharing)
+# Data
+[Lin, Z., Yin, Y., Liu, L. et al. SciSciNet: A large-scale open data lake for the science of science research. Sci Data 10, 315 (2023). https://doi.org/10.1038/s41597-023-02198-9](https://www.nature.com/articles/s41597-023-02198-9)
+ 
 
