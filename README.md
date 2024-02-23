@@ -18,7 +18,7 @@
 
 # How to make the terrain plot
 
-1. Create .xnet file using xnet library
+1. Create .xnet file using xnet library (see example in [workflow/example-generate-xnet.py](workflow/example-generate-xnet.py))
 2. Open [HeliosWeb](http://heliosweb.io/docs/example/?advanced&dark&density&size=0.0&layout=0&use2d&densityProperty=Mass) and drag & drop the .xnet file.
 3. Set the "Greys" as the colormap. And zoom in as much as possible while displaying the whole object
 4. Right click & save the figure
