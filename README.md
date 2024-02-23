@@ -2,7 +2,7 @@
 
 ## Outcome
 
-![figs/geo-science.png](figs/geo-science.png)
+![figs/geo-science.png](figs/all-sciences-v2.png)
 
 ## About the competition
 
