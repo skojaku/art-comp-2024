@@ -1,0 +1,3 @@
+[submodule "libs/xnet"]
+	path = libs/xnet
+	url = https://github.com/filipinascimento/xnet.git
