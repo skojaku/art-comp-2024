@@ -17,7 +17,7 @@
 # How to make the terrain plot
 
 1. Create .xnet file using xnet library
-2. Visualize the xnet file using HeliosWeb via [Helios Example](http://heliosweb.io/docs/example/?advanced&dark&density&size=0.0&layout=0&use2d&densityProperty=Mass)
+2. Open [Helios](http://heliosweb.io/docs/example/?advanced&dark&density&size=0.0&layout=0&use2d&densityProperty=Mass) and drag & drop the .xnet file.
 3. Set the "Greys" as the colormap. And zoom in as much as possible while displaying the whole object
 4. Right click & save the figure
 5. Select the node label to the class type you want to color by. You will see a legend on the left.
